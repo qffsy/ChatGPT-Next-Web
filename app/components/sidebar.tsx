@@ -121,7 +121,8 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>super马里澳GPT</div>
         <div className={styles["sidebar-sub-title"]}>
-          超级好用的openai
+          超级好用的openai代搭建同款chatGPT包上线
+		装逼神器
 		  
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
