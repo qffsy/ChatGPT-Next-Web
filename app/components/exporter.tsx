@@ -439,7 +439,7 @@ export function ImagePreviewer(props: {
           <div>
             <div className={styles["main-title"]}>超级GPT-嗨次元-hicy.cn</div>
             <div className={styles["sub-title"]}>
-              github.com/Yidadaa/ChatGPT-Next-Web
+              www.hicy.cn
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
